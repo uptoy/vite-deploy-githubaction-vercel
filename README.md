@@ -1,9 +1,5 @@
 # Vite
 
-This directory is a brief example of a Vite/Vue.js site that can be deployed to Vercel with zero configuration.
-
-While this project uses Vue.js, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
-
 ## Deploy Your Own
 
 Deploy your own Vite project with Vercel.
